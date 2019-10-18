@@ -25,10 +25,19 @@ button:active {
   font: inherit;
   width: 100%;
   margin-right: 0.2rem;
+  padding-left: 10px;
 }
 
-.container {
+.container-search-bar {
   width: 30rem;
   max-width: 90%;
   margin: auto;
+}
+.find-movie {
+  width: 26rem;
+  max-width: 90%;
+  margin: auto;
+  color: aliceblue;
+  margin-bottom: -23px;
+  margin-top: 25px;
 }
