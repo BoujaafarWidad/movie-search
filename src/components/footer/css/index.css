@@ -1,5 +1,4 @@
 footer {
-  position: fixed;
   display: flex;
   left: 0;
   bottom: 0;
@@ -10,6 +9,7 @@ footer {
   color: #012714;
   justify-content: center;
   align-items: center;
+  position: fixed;
 }
 .copyright {
   font-size: 20px;
